@@ -678,6 +678,7 @@
 2401:f860:: 2401:f860:ffff:ffff:ffff:ffff:ffff:ffff
 2401:fa80:: 2401:fa80:ffff:ffff:ffff:ffff:ffff:ffff
 2401:fb80:: 2401:fb80:ffff:ffff:ffff:ffff:ffff:ffff
+2401:fc60:: 2401:fc60:ffff:ffff:ffff:ffff:ffff:ffff
 2401:fc80:: 2401:fc80:ffff:ffff:ffff:ffff:ffff:ffff
 2401:ffc0:: 2401:ffc0:ffff:ffff:ffff:ffff:ffff:ffff
 2402:440:: 2402:440:ffff:ffff:ffff:ffff:ffff:ffff

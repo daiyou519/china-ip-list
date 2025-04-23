@@ -486,7 +486,6 @@
 2401:5180:: 2401:5180:ffff:ffff:ffff:ffff:ffff:ffff
 2401:5680:: 2401:5680:ffff:ffff:ffff:ffff:ffff:ffff
 2401:58a0:: 2401:58a0:ffff:ffff:ffff:ffff:ffff:ffff
-2401:5960:: 2401:5960:ffff:ffff:ffff:ffff:ffff:ffff
 2401:59c0:: 2401:59c0:ffff:ffff:ffff:ffff:ffff:ffff
 2401:5b40:: 2401:5b40:ffff:ffff:ffff:ffff:ffff:ffff
 2401:5c20:: 2401:5c20:ffff:ffff:ffff:ffff:ffff:ffff

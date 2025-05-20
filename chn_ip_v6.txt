@@ -55,7 +55,6 @@
 2001:df2:c240:: 2001:df2:c240:ffff:ffff:ffff:ffff:ffff
 2001:df2:d4c0:: 2001:df2:d4c0:ffff:ffff:ffff:ffff:ffff
 2001:df3:15c0:: 2001:df3:15c0:ffff:ffff:ffff:ffff:ffff
-2001:df3:2a80:: 2001:df3:2a80:ffff:ffff:ffff:ffff:ffff
 2001:df3:3a80:: 2001:df3:3a80:ffff:ffff:ffff:ffff:ffff
 2001:df3:7440:: 2001:df3:7440:ffff:ffff:ffff:ffff:ffff
 2001:df3:9a40:: 2001:df3:9a40:ffff:ffff:ffff:ffff:ffff

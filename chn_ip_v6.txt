@@ -314,7 +314,6 @@
 2400:abc0:: 2400:abc0:ffff:ffff:ffff:ffff:ffff:ffff
 2400:ae00:: 2400:ae00:ffff:ffff:ffff:ffff:ffff:ffff
 2400:b200:: 2400:b200:ffff:ffff:ffff:ffff:ffff:ffff
-2400:b2c0:: 2400:b2c0:ffff:ffff:ffff:ffff:ffff:ffff
 2400:b500:: 2400:b500:ffff:ffff:ffff:ffff:ffff:ffff
 2400:b600:: 2400:b600:ffff:ffff:ffff:ffff:ffff:ffff
 2400:b620:: 2400:b620:ffff:ffff:ffff:ffff:ffff:ffff

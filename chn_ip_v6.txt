@@ -1565,7 +1565,6 @@
 2405:d280:: 2405:d280:ffff:ffff:ffff:ffff:ffff:ffff
 2405:d4c0:: 2405:d4c0:ffff:ffff:ffff:ffff:ffff:ffff
 2405:d700:: 2405:d700:ffff:ffff:ffff:ffff:ffff:ffff
-2405:d740:: 2405:d740:ffff:ffff:ffff:ffff:ffff:ffff
 2405:d900:: 2405:d900:ffff:ffff:ffff:ffff:ffff:ffff
 2405:df40:: 2405:df40:ffff:ffff:ffff:ffff:ffff:ffff
 2405:e000:: 2405:e000:ffff:ffff:ffff:ffff:ffff:ffff

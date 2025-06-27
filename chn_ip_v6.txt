@@ -647,7 +647,6 @@
 2401:dbe0:: 2401:dbe0:ffff:ffff:ffff:ffff:ffff:ffff
 2401:dd20:: 2401:dd20:ffff:ffff:ffff:ffff:ffff:ffff
 2401:dd60:: 2401:dd60:ffff:ffff:ffff:ffff:ffff:ffff
-2401:dde0:: 2401:dde0:ffff:ffff:ffff:ffff:ffff:ffff
 2401:de00:: 2401:de00:ffff:ffff:ffff:ffff:ffff:ffff
 2401:dfe0:: 2401:dfe0:ffff:ffff:ffff:ffff:ffff:ffff
 2401:e020:: 2401:e020:ffff:ffff:ffff:ffff:ffff:ffff

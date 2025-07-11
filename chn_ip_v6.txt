@@ -322,8 +322,6 @@
 2400:b9a0:: 2400:b9a0:ffff:ffff:ffff:ffff:ffff:ffff
 2400:b9c0:: 2400:b9c0:ffff:ffff:ffff:ffff:ffff:ffff
 2400:ba00:: 2400:ba00:ffff:ffff:ffff:ffff:ffff:ffff
-2400:ba40:: 2400:ba40:ffff:ffff:ffff:ffff:ffff:ffff
-2400:ba41:: 2400:ba41:ffff:ffff:ffff:ffff:ffff:ffff
 2400:bac0:: 2400:bac0:ffff:ffff:ffff:ffff:ffff:ffff
 2400:be00:: 2400:be00:ffff:ffff:ffff:ffff:ffff:ffff
 2400:bf00:: 2400:bf00:ffff:ffff:ffff:ffff:ffff:ffff
@@ -692,6 +690,7 @@
 2402:14c0:: 2402:14c0:ffff:ffff:ffff:ffff:ffff:ffff
 2402:1520:: 2402:1520:ffff:ffff:ffff:ffff:ffff:ffff
 2402:1600:: 2402:1600:ffff:ffff:ffff:ffff:ffff:ffff
+2402:16e0:: 2402:16e0:ffff:ffff:ffff:ffff:ffff:ffff
 2402:1740:: 2402:1740:ffff:ffff:ffff:ffff:ffff:ffff
 2402:19c0:: 2402:19c0:ffff:ffff:ffff:ffff:ffff:ffff
 2402:1f80:: 2402:1f80:ffff:ffff:ffff:ffff:ffff:ffff
@@ -889,7 +888,6 @@
 2402:f480:: 2402:f480:ffff:ffff:ffff:ffff:ffff:ffff
 2402:f540:: 2402:f540:ffff:ffff:ffff:ffff:ffff:ffff
 2402:f580:: 2402:f580:ffff:ffff:ffff:ffff:ffff:ffff
-2402:f740:: 2402:f740:ffff:ffff:ffff:ffff:ffff:ffff
 2402:f780:: 2402:f780:ffff:ffff:ffff:ffff:ffff:ffff
 2402:f8c0:: 2402:f8c0:ffff:ffff:ffff:ffff:ffff:ffff
 2402:f980:: 2402:f980:ffff:ffff:ffff:ffff:ffff:ffff

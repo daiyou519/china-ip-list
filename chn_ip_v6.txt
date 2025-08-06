@@ -91,7 +91,6 @@
 2001:df5:5f80:: 2001:df5:5f80:ffff:ffff:ffff:ffff:ffff
 2001:df5:7800:: 2001:df5:7800:ffff:ffff:ffff:ffff:ffff
 2001:df6:100:: 2001:df6:100:ffff:ffff:ffff:ffff:ffff
-2001:df6:3d00:: 2001:df6:3d00:ffff:ffff:ffff:ffff:ffff
 2001:df6:5d00:: 2001:df6:5d00:ffff:ffff:ffff:ffff:ffff
 2001:df6:6800:: 2001:df6:6800:ffff:ffff:ffff:ffff:ffff
 2001:df6:f400:: 2001:df6:f400:ffff:ffff:ffff:ffff:ffff
@@ -921,7 +920,6 @@
 2403:16c0:: 2403:16c0:ffff:ffff:ffff:ffff:ffff:ffff
 2403:17c0:: 2403:17c0:ffff:ffff:ffff:ffff:ffff:ffff
 2403:1980:: 2403:1980:ffff:ffff:ffff:ffff:ffff:ffff
-2403:1a40:: 2403:1a40:ffff:ffff:ffff:ffff:ffff:ffff
 2403:1b80:: 2403:1b80:ffff:ffff:ffff:ffff:ffff:ffff
 2403:1c80:: 2403:1c80:ffff:ffff:ffff:ffff:ffff:ffff
 2403:1d80:: 2403:1d80:ffff:ffff:ffff:ffff:ffff:ffff

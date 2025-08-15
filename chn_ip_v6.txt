@@ -2017,7 +2017,9 @@
 240b:8000:: 240b:87ff:ffff:ffff:ffff:ffff:ffff:ffff
 240b:a000:: 240b:a07f:ffff:ffff:ffff:ffff:ffff:ffff
 240b:e000:: 240b:e03f:ffff:ffff:ffff:ffff:ffff:ffff
-240c:: 240c:f:ffff:ffff:ffff:ffff:ffff:ffff
+240c:: 240c:0:ffff:ffff:ffff:ffff:ffff:ffff
+240c:6:: 240c:6:ffff:ffff:ffff:ffff:ffff:ffff
+240c:f:: 240c:f:ffff:ffff:ffff:ffff:ffff:ffff
 240c:4000:: 240c:43ff:ffff:ffff:ffff:ffff:ffff:ffff
 240c:8000:: 240c:87ff:ffff:ffff:ffff:ffff:ffff:ffff
 240c:c000:: 240c:cfff:ffff:ffff:ffff:ffff:ffff:ffff

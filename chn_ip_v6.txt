@@ -90,6 +90,7 @@
 2001:df5:4cc0:: 2001:df5:4cc0:ffff:ffff:ffff:ffff:ffff
 2001:df5:5f80:: 2001:df5:5f80:ffff:ffff:ffff:ffff:ffff
 2001:df5:7800:: 2001:df5:7800:ffff:ffff:ffff:ffff:ffff
+2001:df6:40:: 2001:df6:40:ffff:ffff:ffff:ffff:ffff
 2001:df6:100:: 2001:df6:100:ffff:ffff:ffff:ffff:ffff
 2001:df6:5d00:: 2001:df6:5d00:ffff:ffff:ffff:ffff:ffff
 2001:df6:6800:: 2001:df6:6800:ffff:ffff:ffff:ffff:ffff

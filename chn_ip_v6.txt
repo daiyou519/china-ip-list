@@ -65,7 +65,6 @@
 2001:df3:d880:: 2001:df3:d880:ffff:ffff:ffff:ffff:ffff
 2001:df3:ed80:: 2001:df3:ed80:ffff:ffff:ffff:ffff:ffff
 2001:df3:ef80:: 2001:df3:ef80:ffff:ffff:ffff:ffff:ffff
-2001:df4:880:: 2001:df4:880:ffff:ffff:ffff:ffff:ffff
 2001:df4:d80:: 2001:df4:d80:ffff:ffff:ffff:ffff:ffff
 2001:df4:1880:: 2001:df4:1880:ffff:ffff:ffff:ffff:ffff
 2001:df4:2780:: 2001:df4:2780:ffff:ffff:ffff:ffff:ffff

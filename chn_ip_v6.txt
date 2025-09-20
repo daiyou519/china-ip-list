@@ -708,6 +708,7 @@
 2402:2a00:: 2402:2a00:ffff:ffff:ffff:ffff:ffff:ffff
 2402:2b80:: 2402:2b80:ffff:ffff:ffff:ffff:ffff:ffff
 2402:2bc0:: 2402:2bc0:ffff:ffff:ffff:ffff:ffff:ffff
+2402:2ca0:: 2402:2ca0:ffff:ffff:ffff:ffff:ffff:ffff
 2402:2d00:: 2402:2d00:ffff:ffff:ffff:ffff:ffff:ffff
 2402:2d80:: 2402:2d80:ffff:ffff:ffff:ffff:ffff:ffff
 2402:2e80:: 2402:2e80:ffff:ffff:ffff:ffff:ffff:ffff

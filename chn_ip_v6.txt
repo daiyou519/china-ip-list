@@ -76,7 +76,6 @@
 2001:df4:a980:: 2001:df4:a980:ffff:ffff:ffff:ffff:ffff
 2001:df4:c180:: 2001:df4:c180:ffff:ffff:ffff:ffff:ffff
 2001:df4:c580:: 2001:df4:c580:ffff:ffff:ffff:ffff:ffff
-2001:df4:c780:: 2001:df4:c780:ffff:ffff:ffff:ffff:ffff
 2001:df4:e140:: 2001:df4:e140:ffff:ffff:ffff:ffff:ffff
 2001:df4:e141:: 2001:df4:e141:ffff:ffff:ffff:ffff:ffff
 2001:df4:e142:: 2001:df4:e143:ffff:ffff:ffff:ffff:ffff

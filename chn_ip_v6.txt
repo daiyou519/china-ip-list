@@ -59,7 +59,6 @@
 2001:df3:a680:: 2001:df3:a680:ffff:ffff:ffff:ffff:ffff
 2001:df3:c680:: 2001:df3:c680:ffff:ffff:ffff:ffff:ffff
 2001:df3:d0c0:: 2001:df3:d0c0:ffff:ffff:ffff:ffff:ffff
-2001:df3:d880:: 2001:df3:d880:ffff:ffff:ffff:ffff:ffff
 2001:df3:ef80:: 2001:df3:ef80:ffff:ffff:ffff:ffff:ffff
 2001:df4:d80:: 2001:df4:d80:ffff:ffff:ffff:ffff:ffff
 2001:df4:1880:: 2001:df4:1880:ffff:ffff:ffff:ffff:ffff

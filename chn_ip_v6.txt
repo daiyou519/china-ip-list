@@ -1951,7 +1951,6 @@
 2407:cc80:: 2407:cc80:ffff:ffff:ffff:ffff:ffff:ffff
 2407:cd80:: 2407:cd80:ffff:ffff:ffff:ffff:ffff:ffff
 2407:ce80:: 2407:ce80:ffff:ffff:ffff:ffff:ffff:ffff
-2407:cf00:: 2407:cf00:ffff:ffff:ffff:ffff:ffff:ffff
 2407:cf80:: 2407:cf80:ffff:ffff:ffff:ffff:ffff:ffff
 2407:d480:: 2407:d480:ffff:ffff:ffff:ffff:ffff:ffff
 2407:d580:: 2407:d580:ffff:ffff:ffff:ffff:ffff:ffff

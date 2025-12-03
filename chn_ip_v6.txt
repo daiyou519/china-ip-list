@@ -68,7 +68,6 @@
 2001:df4:4b80:: 2001:df4:4b80:ffff:ffff:ffff:ffff:ffff
 2001:df4:4d80:: 2001:df4:4d80:ffff:ffff:ffff:ffff:ffff
 2001:df4:a1c0:: 2001:df4:a1c0:ffff:ffff:ffff:ffff:ffff
-2001:df4:a680:: 2001:df4:a680:ffff:ffff:ffff:ffff:ffff
 2001:df4:a980:: 2001:df4:a980:ffff:ffff:ffff:ffff:ffff
 2001:df4:c180:: 2001:df4:c180:ffff:ffff:ffff:ffff:ffff
 2001:df4:c580:: 2001:df4:c580:ffff:ffff:ffff:ffff:ffff

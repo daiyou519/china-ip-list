@@ -728,6 +728,7 @@
 2402:3e00:: 2402:3e00:ffff:ffff:ffff:ffff:ffff:ffff
 2402:3ec0:: 2402:3ec0:ffff:ffff:ffff:ffff:ffff:ffff
 2402:3f80:: 2402:3f80:ffff:ffff:ffff:ffff:ffff:ffff
+2402:4060:: 2402:4060:ffff:ffff:ffff:ffff:ffff:ffff
 2402:4140:: 2402:4140:ffff:ffff:ffff:ffff:ffff:ffff
 2402:42c0:: 2402:42c0:ffff:ffff:ffff:ffff:ffff:ffff
 2402:4340:: 2402:4340:ffff:ffff:ffff:ffff:ffff:ffff

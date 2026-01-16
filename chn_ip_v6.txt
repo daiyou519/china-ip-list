@@ -406,7 +406,6 @@
 2401:e00:: 2401:e00:ffff:ffff:ffff:ffff:ffff:ffff
 2401:1000:: 2401:1000:ffff:ffff:ffff:ffff:ffff:ffff
 2401:1160:: 2401:1160:ffff:ffff:ffff:ffff:ffff:ffff
-2401:11a0:: 2401:11a0:ffff:ffff:ffff:ffff:ffff:ffff
 2401:11c0:: 2401:11c0:ffff:ffff:ffff:ffff:ffff:ffff
 2401:1200:: 2401:1200:ffff:ffff:ffff:ffff:ffff:ffff
 2401:12c0:: 2401:12c0:ffff:ffff:ffff:ffff:ffff:ffff
